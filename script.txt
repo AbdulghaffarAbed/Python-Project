@@ -1,0 +1,3 @@
+Grep <"debug.exe"> <"C:\exp9\">
+Categorize <"C:\shsmo\">
+Mv_last <"C:\exp9\"> <"C:\test\">
